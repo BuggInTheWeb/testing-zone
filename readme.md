@@ -1,6 +1,6 @@
 This mock test is based off the 2024 A2. Note that this is out of 50, the real test will be longer, out of 100.
 
-For each of the questions below, answer the question in a solution.js file. This mock is not  submitted, but if it was, you would submit the single file only to SocSciLearn at the end of the test. To test your code, you should write an index.html and then use the Python web server to test it. Remember, in the lab, you can use python -m http.server --bind 127.0.0.1 to run the web server
+For each of the questions below, answer the question in a solution.js file. This mock is not submitted, but if it was, you would submit the single file only to SocSciLearn at the end of the test. To test your code, you should write an index.html and then use the Python web server to test it. Remember, in the lab, you can use python -m http.server --bind 127.0.0.1 to run the web server
 
 #Javascript Questions
 
